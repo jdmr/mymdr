@@ -30,8 +30,8 @@ module.exports = {
   ],
 
   plugins: [
-    '~/plugins/vue-google-maps',
-    '~/plugins/vue-carousel'
+    {src: '~/plugins/vue-google-maps'},
+    {src: '~/plugins/vue-carousel', ssr: false}
   ],
 
   /*
