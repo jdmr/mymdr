@@ -1,4 +1,6 @@
 .DS_Store
+yarn-error.log
+
 # dependencies
 node_modules
 

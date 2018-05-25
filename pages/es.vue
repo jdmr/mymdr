@@ -1,5 +1,5 @@
 <template>
-  <div id="main">
+  <div>
     <header
       id="home"
       class="site-header parallax"
@@ -47,12 +47,12 @@
                 id="navMenu"
                 class="nav-menu">
                 <ul class="menu">
-                  <li><a href="#about">About</a></li>
-                  <li><a href="#prices">Prices</a></li>
-                  <li><a href="#services">Services</a></li>
-                  <li><a href="#testimonials">Testimonials</a></li>
-                  <li><a href="#contact">Contact</a></li>
-                  <li><nuxt-link to="/es">Español</nuxt-link></li>
+                  <li><a href="#about">Acerca</a></li>
+                  <li><a href="#prices">Precios</a></li>
+                  <li><a href="#services">Servicios</a></li>
+                  <li><a href="#testimonials">Testimonios</a></li>
+                  <li><a href="#contact">Cont&aacute;ctanos</a></li>
+                  <li><nuxt-link to="/">English</nuxt-link></li>
                 </ul>
               </nav>
 
@@ -96,13 +96,13 @@
               id="navMenu"
               class="nav-menu">
               <ul class="menu">
-                <li class="current-menu-item"><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#prices">Prices</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#testimonials">Testimonials</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li><nuxt-link to="/es">Español</nuxt-link></li>
+                <li class="current-menu-item"><a href="#home">Inicio</a></li>
+                <li><a href="#about">Acerca</a></li>
+                <li><a href="#prices">Precios</a></li>
+                <li><a href="#services">Servicios</a></li>
+                <li><a href="#testimonials">Testimonios</a></li>
+                <li><a href="#contact">Cont&aacute;ctanos</a></li>
+                <li><a href="/">English</a></li>
               </ul>
             </nav>
 
@@ -119,7 +119,7 @@
 
             <!-- Heading Title -->
             <div class="row heading-title">
-              <h2>Let us fix it!</h2>
+              <h2>¡D&eacute;jenos arregl&aacute;rselo!</h2>
               <hr class="small">
               <h1 class="thin">Mobile Device Repair</h1>
             </div>
@@ -147,23 +147,21 @@
 
     </header>
 
-    <!-- CTA ONE -->
     <section class="offer-section">
       <div class="container">
 
         <div class="col-md-9 col-sm-12">
-          <h2>Let us fix your electronic problems!</h2>
+          <h2>Arreglamos sus problemas electr&oacute;nicos</h2>
         </div>
         <div class="col-md-3 col-md-push-0 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1">
           <a
             href="#contact"
-            class="button-cta button-block">Contact Us!</a>
+            class="button-cta button-block">Cont&aacute;ctenos</a>
         </div>
 
       </div>
     </section>
 
-    <!-- About -->
     <section
       id="about"
       class="site-section about-section section-focus next-section-indicator">
@@ -174,16 +172,17 @@
 
           <!-- Section Header -->
           <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-            <h2>Why Choose MDR?</h2>
+            <h2>¿Por qu&eacute; MDR?</h2>
             <hr class="normal">
           </header>
 
           <!-- Section Content -->
           <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-            <p>At MDR we pride ourselves on being problem solvers, be it dropped devices (phones, tablets, computers), wear damage, forgotten passwords, locked phones. We strive to create solutions where there weren’t any before, and because our
-            customers mean everything to us we use the highest quality parts for our repairs and back all work with a 30-day warranty.</p>
+            <p>En MDR nos enorgullecemos de ser capaces de resolver problemas, sea por la ca&iacute;da del dispositivo (celulares, tabletas, computadoras), da&ntilde;o por uso, olvido de contrase&ntilde;a, celular bloqueado. Nos esforzamos por crear
+            soluciones donde no exist&iacute;a una antes y, porque nuestros clientes significan todo para nosotros, siempre utilizamos las piezas de m&aacute;s alta calidad para nuestras reparaciones y respaldamos todo el trabajo con una garant&iacute;a
+            de 30 d&iacute;as.</p>
 
-            <p>If we can't fix it you don't have to pay anything. So try us out with complete confidence that you'll get the best service.</p>
+            <p>Si no podemos solucionar su problema usted no tiene que pagar nada. ¡Venga y pru&eacute;benos!</p>
           </div>
 
         </div>
@@ -191,7 +190,6 @@
       </div>
     </section>
 
-    <!-- Prices -->
     <section
       id="prices"
       class="site-section prices-section next-section-indicator">
@@ -202,15 +200,15 @@
 
           <!-- Section Header -->
           <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-            <h2>Prices</h2>
+            <h2>Precios</h2>
             <hr class="normal">
           </header>
 
           <!-- Section Content -->
           <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-            <p>We do way more than fix cracked screens and many more than the ones listed here. We also try to keep the prices up to date but our provider prices change so frequently that we have to reserve the right to give you a different price once you walk in.</p>
-            <p>Prices do not include taxes.</p>
-            <p><strong>Now All iPhone Repairs come with a Free Premium Tempered Glass</strong></p>
+            <p>Arreglamos m&aacute;s que pantallas quebradas y m&aacute;s de las que se encuentran enlistadas aqu&iacute;. Tambi&eacute;n hacemos nuestro mejor esfuerzo por mantener los precios actualizados, pero con los constantes cambios en los materiales que utilizamos estos cambian muy frecuentemente por los que nos reservamos el darle un precio diferente cuando venga por el servicio.</p>
+            <p>Los precios no incluyen impuestos.</p>
+            <p><strong>Ahora todos las reparaciones de iPhones incluyen un Protector de Vidrio Templado Premium gratis.</strong></p>
 
             <table class="table">
               <thead>
@@ -312,7 +310,6 @@
       </div>
     </section>
 
-    <!-- Services -->
     <section
       id="services"
       class="site-section section-focus prices-section">
@@ -323,13 +320,13 @@
 
           <!-- Section Header -->
           <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-            <h2>Services</h2>
+            <h2>Servicios</h2>
             <hr class="normal">
           </header>
 
           <!-- Section Content -->
           <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-            <p>We're open Mon - Sat 10:00 AM to 7:00 PM and all our services are backed by our 30-day guarantee.</p>
+            <p>Abrimos de Lun - S&aacute;b de 10:00 AM a 7:00 PM y todos nuestros servicios están respaldados por nuestra garantía de 30 días.</p>
             <p><sup>*</sup>On supported devices</p>
           </div>
 
@@ -345,7 +342,7 @@
 
                 <!-- Plan Head -->
                 <div class="plan-head">
-                  <h3 class="plan-title">Cell Phones &amp; Tablets</h3>
+                  <h3 class="plan-title">Celulares y Tabletas</h3>
                   <hr class="normal">
                   <p class="plan-subtitle">Apple, Samsung, HTC</p>
                 </div>
@@ -354,12 +351,12 @@
                 <div class="plan-content">
                   <h4 class="feature-title"><i class="pe-7s-check check"/><a
                     id="cracked-screens"
-                    href="#prices">Cracked Screens</a></h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>Broken LCD's</h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>Charging Port Issues</h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>Data Transfer</h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/><nuxt-link to="/supported">Data Recovery<sup>*</sup></nuxt-link></h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>iPhone &amp; <nuxt-link to="/supported">Android Unlock<sup>*</sup></nuxt-link></h4>
+                    href="#prices">Pantallas con grietas</a></h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Pantallas rotas</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Problemas con puerto de carga</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Transferencia de datos</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Recuperaci&oacute;n de datos</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Desbloqueo de iPhone y <nuxt-link to="/supported">Android</nuxt-link></h4>
                 </div>
 
               </div>
@@ -378,12 +375,12 @@
 
                 <!-- Plan Content -->
                 <div class="plan-content">
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>Virus Removal</h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>Password Reset</h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>Tune-up</h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>Screen Repair</h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>Data Recovery</h4>
-                  <h4 class="feature-title"><i class="pe-7s-check check"/>Hardware &amp; Software Upgrade</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Eliminamos virus</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Restauraci&oacute;n de contrase&ntilde;as</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Puesta a punto</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Reparaci&oacute;n de pantallas</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Actualizaci&oacute;n de Hardware y Software</h4>
+                  <h4 class="feature-title"><i class="pe-7s-check check"/>Recuperaci&oacute;n de datos</h4>
                 </div>
 
 
@@ -395,23 +392,21 @@
       </div>
     </section>
 
-    <!-- CTA TWO -->
     <section class="offer-section">
       <div class="container">
 
         <div class="col-md-9 col-sm-12">
-          <h2>Dropped your phone?</h2>
+          <h2>Dej&oacute; caer su celular?</h2>
         </div>
         <div class="col-md-3 col-md-push-0 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1">
           <a
             href="#contact"
-            class="button-cta button-block">Just ask!</a>
+            class="button-cta button-block">Preg&uacute;ntenos!</a>
         </div>
 
       </div>
     </section>
 
-    <!-- Testimonials -->
     <section
       id="testimonials"
       class="site-section testimonials-section">
@@ -422,7 +417,7 @@
 
           <!-- Section Header -->
           <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-            <h2>Testimonials</h2>
+            <h2>Testimonios</h2>
             <hr class="normal">
           </header>
 
@@ -435,6 +430,8 @@
           <carousel
             id="testimonials-carousel"
             class="col-md-8 col-md-push-2">
+
+
 
             <!-- Client Testimonial -->
             <slide class="client-testimonial text-center">
@@ -455,7 +452,7 @@
 
               <!-- Testimonials Quote -->
               <div class="testimonial-quote">
-                <p class="quote">Took my phone in with a broken screen, they fixed and it was only $70.</p>
+                <p class="quote">Llev&eacute; my tel&eacute;fono con una pantalla quebrada, ellos la arreglaron por s&oacute;lo $70.</p>
               </div>
             </slide>
 
@@ -480,7 +477,7 @@
 
               <!-- Testimonials Quote -->
               <div class="testimonial-quote">
-                <p class="quote">He did a fast great job. I waited 5 min and my phone works perfectly. $40 cheaper than anywhere else.</p>
+                <p class="quote">&Eacute;l hizo un buen trabajo y r&aacute;pido. Esper&eacute; 5 minutos y mi tel&eacute;fono funciona perfectamente. $40 m&aacute;s barato que en cualquier otro lugar.</p>
               </div>
             </slide>
 
@@ -499,24 +496,7 @@
 
               <!-- Testimonials Quote -->
               <div class="testimonial-quote">
-                <p class="quote">I've been in there several times. He has always been professional, quick and fixed everything we needed him to.</p>
-              </div>
-            </slide>
-
-            <!-- Client Testimonial -->
-            <slide class="client-testimonial text-center">
-              <!-- Testimonials Face -->
-              <div class="testimonial-face">
-
-                <div class="info">
-                  <h3 class="name">Alaina Aguirre</h3>
-                </div>
-
-              </div>
-
-              <!-- Testimonials Quote -->
-              <div class="testimonial-quote">
-                <p class="quote">I've gotten my phone fixed here multiple times and it's always a great experience and it's always a super cheap and great job!!</p>
+                <p class="quote">He estado all&iacute; varias veces. &Eacute;l siempre ha sido profesional, r&aacute;pido y repara todo lo que necesitamos.</p>
               </div>
             </slide>
 
@@ -533,7 +513,7 @@
 
               <!-- Testimonials Quote -->
               <div class="testimonial-quote">
-                <p class="quote">Great people and amazing service too! This guy fixed my phone in less than 15 minutes! Thank y'all!</p>
+                <p class="quote">¡La gente y el servicio es increíble! ¡Este tipo arregl&oacute; mi teléfono en menos de 15 minutos! ¡Gracias!</p>
               </div>
             </slide>
 
@@ -550,7 +530,7 @@
 
               <!-- Testimonials Quote -->
               <div class="testimonial-quote">
-                <p class="quote">Thanks to Luis for fixing my iPhone I recommend y'all to come to Luis Ogaz</p>
+                <p class="quote">Gracias a Luis por arreglar mi iPhone les recomiendo que vayan con Luis Ogaz</p>
               </div>
             </slide>
 
@@ -567,9 +547,10 @@
 
               <!-- Testimonials Quote -->
               <div class="testimonial-quote">
-                <p class="quote">I didn't know fixing my phone could be so easy! I'm definitely coming here every single time! He is amazing!</p>
+                <p class="quote">¡No sabía que arreglar mi teléfono pod&iacute;a ser tan fácil! ¡No lo pensaré dos veces para venir aqu&iacute;! ¡Él es increíble!</p>
               </div>
             </slide>
+
 
           </carousel>
 
@@ -583,7 +564,7 @@
           <header class="col-md-8 col-md-push-2 col-sm-12">
             <a
               href="https://goo.gl/rHBHlI"
-              target="_blank">Write a review</a>
+              target="_blank">Escriba una reseña</a>
           </header>
 
         </div>
@@ -591,7 +572,6 @@
       </div>
     </section>
 
-    <!-- Contact -->
     <section
       id="contact"
       class="site-section contact-section next-section-indicator parallax"
@@ -603,7 +583,7 @@
         data-scrollax="properties: { 'translateY': '48%' }">
         <img
           src="/images/contact-image.jpg"
-          alt="Contact MDR" >
+          alt="Sera - One Page Template by Gleesik Wallpaper" >
       </div>
 
       <div class="container">
@@ -613,7 +593,7 @@
 
           <!-- Section Header -->
           <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-            <h2>Contact Us</h2>
+            <h2>Cont&aacute;ctenos</h2>
             <hr class="normal">
           </header>
 
@@ -637,31 +617,31 @@
                 <input
                   type="text"
                   name="name"
-                  placeholder="Name" >
+                  placeholder="Nombre" >
               </div>
               <div class="col-md-6">
                 <input
                   type="text"
                   name="_replyto"
-                  placeholder="Email" >
+                  placeholder="Correo Electrónico" >
               </div>
               <div class="col-md-12">
                 <input
                   type="text"
                   name="_subject"
-                  placeholder="Subject" >
+                  placeholder="Asunto" >
               </div>
               <div class="col-md-12">
                 <textarea
                   name="message"
                   rows="8"
                   cols="40"
-                  placeholder="Message"/>
+                  placeholder="Mensaje"/>
               </div>
               <div class="col-md-12 form-action">
                 <button
                   type="submit"
-                  class="send-button">Send Message</button>
+                  class="send-button">Enviar Mensaje</button>
               </div>
             </form>
           </div>
@@ -688,7 +668,7 @@
         <br>
         <a
           href="https://goo.gl/maps/Pajzi11j2H32"
-          target="_blank">Open in Google Maps</a>
+          target="_blank">Abrir en Google Maps</a>
       </GmapInfoWindow>
 
     </GmapMap>
@@ -704,7 +684,7 @@
 import SiteFooter from '@/components/SiteFooter'
 import Top from '@/components/Top'
 export default {
-  name: 'Home',
+  name: 'Es',
   components: {
     SiteFooter,
     Top
