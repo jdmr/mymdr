@@ -19,7 +19,7 @@
 
         <div class="col-md-8 col-md-push-2 footer-copyright">
           <div class="footer-text text-center">
-            <p>Open Mon - Sat 10:00 AM to 7:00 PM | <a href="tel:81776488748">(817) 648-8748</a> | <a
+            <p>Open Mon - Sat 10:00 AM to 6:00 PM | <a href="tel:81776488748">(817) 648-8748</a> | <a
               href="https://goo.gl/maps/Pajzi11j2H32"
               target="_blank">709B W Henderson St, Cleburne TX 76033</a></p>
           </div>
