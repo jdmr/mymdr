@@ -224,13 +224,13 @@
                   <td>iPhone 8 Plus</td>
                   <td class="price">$90</td>
                   <td>Galaxy S8 Plus</td>
-                  <td class="price">$310</td>
+                  <td class="price">$330</td>
                 </tr>
                 <tr>
                   <td>iPhone 8</td>
                   <td class="price">$85</td>
                   <td>Galaxy S8</td>
-                  <td class="price">$250</td>
+                  <td class="price">$320</td>
                 </tr>
                 <tr>
                   <td>iPhone 7 Plus</td>
