@@ -219,49 +219,49 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>iPhone 8 Plus</td>
-                  <td class="price">$90</td>
+                  <td>iPhone XS </td>
+                  <td class="price">$240</td>
                   <td>Galaxy S8 Plus</td>
                   <td class="price">$310</td>
                 </tr>
                 <tr>
-                  <td>iPhone 8</td>
-                  <td class="price">$85</td>
+                  <td>iPhone XR</td>
+                  <td class="price">$245</td>
                   <td>Galaxy S8</td>
-                  <td class="price">$250</td>
+                  <td class="price">$305</td>
+                </tr>
+                <tr>
+                  <td>iPhone X </td>
+                  <td class="price">$225</td>
+                  <td>Galaxy S7 Active</td>
+                  <td class="price">$245</td>
+                </tr>
+                <tr>
+                  <td>iPhone 8 Plus</td>
+                  <td class="price">$90</td>
+                  <td>Galaxy S7 Edge</td>
+                  <td class="price">$285</td>
+                </tr>
+                <tr>
+                  <td>iPhone 8 </td>
+                  <td class="price">$85</td>
+                  <td>Galaxy S7</td>
+                  <td class="price">$210</td>
                 </tr>
                 <tr>
                   <td>iPhone 7 Plus</td>
                   <td class="price">$85</td>
-                  <td>Galaxy S7 Active</td>
-                  <td class="price">$310</td>
+                  <td>Galaxy S6 EDGE Plus</td>
+                  <td class="price">$260</td>
                 </tr>
                 <tr>
-                  <td>iPhone 7</td>
+                  <td>iPhone 7 </td>
                   <td class="price">$80</td>
-                  <td>Galaxy S7 Edge</td>
-                  <td class="price">$249</td>
+                  <td>Galaxy S6 EDGE</td>
+                  <td class="price">$295</td>
                 </tr>
                 <tr>
                   <td>iPhone 6s Plus</td>
-                  <td class="price">$80</td>
-                  <td>Galaxy S7</td>
-                  <td class="price">$190</td>
-                </tr>
-                <tr>
-                  <td>iPhone 6s</td>
-                  <td class="price">$75</td>
-                  <td>Galaxy S6 EDGE Plus</td>
-                  <td class="price">$220</td>
-                </tr>
-                <tr>
-                  <td>iPhone 6 Plus</td>
-                  <td class="price">$70</td>
-                  <td>Galaxy S6 EDGE</td>
-                  <td class="price">$210</td>
-                </tr>
-                <tr>
-                  <td>iPhone 6</td>
                   <td class="price">$65</td>
                   <td>Galaxy S6 Active</td>
                   <td class="price">$240</td>
