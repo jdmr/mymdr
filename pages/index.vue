@@ -269,26 +269,26 @@
                   <td class="price">$240</td>
                 </tr>
                 <tr>
-                  <td>iPhone 5se</td>
-                  <td class="price">$45</td>
+                  <td>iPhone 5,5C,5S,SE</td>
+                  <td class="price">$55</td>
                   <td>Galaxy S6</td>
                   <td class="price">$175</td>
                 </tr>
                 <tr>
-                  <td>iPhone 5s</td>
-                  <td class="price">$45</td>
+                  <td>iPhone XR</td>
+                  <td class="price">$245</td>
                   <td>Galaxy S5 Active</td>
                   <td class="price">$155</td>
                 </tr>
                 <tr>
-                  <td>iPhone 5c</td>
-                  <td class="price">$45</td>
-                  <td>Galaxy S5</td>
-                  <td class="price">$155</td>
+                  <td>iPhone XS</td>
+                  <td class="price">$245</td>
+                  <td>Galaxy S</td>
+                  <td class="price">$2255</td>
                 </tr>
                 <tr>
-                  <td>iPhone 5</td>
-                  <td class="price">$45</td>
+                  <td>iPhone X</td>
+                  <td class="price">$225</td>
                   <td>Galaxy Note 8</td>
                   <td class="price">$340</td>
                 </tr>
