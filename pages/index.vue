@@ -152,7 +152,7 @@
       <div class="container">
 
         <div class="col-md-9 col-sm-12">
-          <h2>Let us fix your electronic problems!</h2>
+          <h2>Let us fix your Phone,computers,and tablets problems!</h2>
         </div>
         <div class="col-md-3 col-md-push-0 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1">
           <a
@@ -180,7 +180,7 @@
 
           <!-- Section Content -->
           <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-            <p>At MDR we pride ourselves on being problem solvers, be it dropped devices (phones, tablets, computers), wear damage, forgotten passwords, locked phones. We strive to create solutions where there weren’t any before, and because our
+            <p>At MDR Since 2013 we pride ourselves on being problem solvers, be it dropped devices (phones, tablets, computers), wear damage, forgotten passwords, locked phones. We strive to create solutions where there weren’t any before, and because our
             customers mean everything to us we use the highest quality parts for our repairs and back all work with a 30-day warranty.</p>
 
             <p>If we can't fix it you don't have to pay anything. So try us out with complete confidence that you'll get the best service.</p>
