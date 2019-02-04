@@ -221,26 +221,26 @@
                 <tr>
                   <td>iPhone XS </td>
                   <td class="price">$240</td>
-                  <td>Galaxy S8 Plus</td>
-                  <td class="price">$310</td>
+                  <td>Galaxy S9 Plus</td>
+                  <td class="price">$335</td>
                 </tr>
                 <tr>
                   <td>iPhone XR</td>
                   <td class="price">$245</td>
-                  <td>Galaxy S8</td>
-                  <td class="price">$305</td>
+                  <td>Galaxy S9</td>
+                  <td class="price">$315</td>
                 </tr>
                 <tr>
                   <td>iPhone X </td>
                   <td class="price">$225</td>
-                  <td>Galaxy S7 Active</td>
-                  <td class="price">$245</td>
+                  <td>Galaxy S8 Plus Active</td>
+                  <td class="price">$325</td>
                 </tr>
                 <tr>
                   <td>iPhone 8 Plus</td>
                   <td class="price">$90</td>
-                  <td>Galaxy S7 Edge</td>
-                  <td class="price">$285</td>
+                  <td>Galaxy S8 </td>
+                  <td class="price">$320</td>
                 </tr>
                 <tr>
                   <td>iPhone 8 </td>
@@ -251,42 +251,48 @@
                 <tr>
                   <td>iPhone 7 Plus</td>
                   <td class="price">$85</td>
-                  <td>Galaxy S6 EDGE Plus</td>
-                  <td class="price">$260</td>
+                  <td>Galaxy S7 EDGE Plus</td>
+                  <td class="price">$299</td>
                 </tr>
                 <tr>
                   <td>iPhone 7 </td>
                   <td class="price">$80</td>
                   <td>Galaxy S6 EDGE</td>
-                  <td class="price">$295</td>
+                  <td class="price">$299</td>
                 </tr>
                 <tr>
                   <td>iPhone 6s Plus</td>
-                  <td class="price">$65</td>
+                  <td class="price">$70</td>
                   <td>Galaxy S6 Active</td>
-                  <td class="price">$240</td>
+                  <td class="price">$235</td>
                 </tr>
                 <tr>
                   <td>iPhone 5se</td>
-                  <td class="price">$45</td>
+                  <td class="price">$55</td>
                   <td>Galaxy S6</td>
-                  <td class="price">$175</td>
+                  <td class="price">$220</td>
                 </tr>
                 <tr>
                   <td>iPhone 5s</td>
-                  <td class="price">$45</td>
+                  <td class="price">$55</td>
                   <td>Galaxy S5 Active</td>
-                  <td class="price">$155</td>
+                  <td class="price">$199</td>
                 </tr>
                 <tr>
                   <td>iPhone 5c</td>
-                  <td class="price">$45</td>
+                  <td class="price">$55</td>
                   <td>Galaxy S5</td>
-                  <td class="price">$155</td>
+                  <td class="price">$185</td>
                 </tr>
                 <tr>
                   <td>iPhone 5</td>
-                  <td class="price">$45</td>
+                  <td class="price">$55</td>
+                  <td>Galaxy Note 9</td>
+                  <td class="price">$345</td>
+                </tr>
+                <tr>
+                  <td/>
+                  <td class="price"/>
                   <td>Galaxy Note 8</td>
                   <td class="price">$340</td>
                 </tr>
@@ -294,13 +300,7 @@
                   <td/>
                   <td class="price"/>
                   <td>Galaxy Note 5</td>
-                  <td class="price">$210</td>
-                </tr>
-                <tr>
-                  <td/>
-                  <td class="price"/>
-                  <td>Galaxy Note 4</td>
-                  <td class="price">$185</td>
+                  <td class="price">$240</td>
                 </tr>
               </tbody>
             </table>
