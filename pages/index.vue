@@ -278,13 +278,13 @@
                   <td>iPhone XR</td>
                   <td class="price">$245</td>
                   <td>Galaxy S5 Active</td>
-                  <td class="price">$155</td>
+                  <td class="price">$210</td>
                 </tr>
                 <tr>
                   <td>iPhone XS</td>
                   <td class="price">$245</td>
-                  <td>Galaxy S</td>
-                  <td class="price">$2255</td>
+                  <td>Galaxy S5 </td>
+                  <td class="price">$220</td>
                 </tr>
                 <tr>
                   <td>iPhone X</td>
@@ -296,13 +296,13 @@
                   <td/>
                   <td class="price"/>
                   <td>Galaxy Note 5</td>
-                  <td class="price">$210</td>
+                  <td class="price">$240</td>
                 </tr>
                 <tr>
                   <td/>
                   <td class="price"/>
                   <td>Galaxy Note 4</td>
-                  <td class="price">$185</td>
+                  <td class="price">$225</td>
                 </tr>
               </tbody>
             </table>
@@ -329,7 +329,7 @@
 
           <!-- Section Content -->
           <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-            <p>We're open Mon - Sat 10:00 AM to 7:00 PM and all our services are backed by our 30-day guarantee.</p>
+            <p>We're open Mon - Sat 10:00 AM to 6:00 PM and all our services are backed by our 30-day guarantee.</p>
             <p><sup>*</sup>On supported devices</p>
           </div>
 
