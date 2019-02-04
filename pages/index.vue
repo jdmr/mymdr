@@ -152,7 +152,7 @@
       <div class="container">
 
         <div class="col-md-9 col-sm-12">
-          <h2>Let us fix your Phone,computers,and tablets problems.   Please Call 817-648-8748</h2>
+          <h2>Let us fix your Phone,computers,and tablets problems.Please Call 817-648-8748</h2>
         </div>
         <div class="col-md-3 col-md-push-0 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1">
           <a
