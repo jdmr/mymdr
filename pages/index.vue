@@ -278,13 +278,13 @@
                   <td>iPhone XR</td>
                   <td class="price">$245</td>
                   <td>Galaxy S5 Active</td>
-                  <td class="price">$210</td>
+                  <td class="price">$220</td>
                 </tr>
                 <tr>
                   <td>iPhone XS</td>
                   <td class="price">$245</td>
                   <td>Galaxy S5 </td>
-                  <td class="price">$220</td>
+                  <td class="price">$210</td>
                 </tr>
                 <tr>
                   <td>iPhone X</td>
