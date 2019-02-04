@@ -271,8 +271,8 @@
                 <tr>
                   <td>iPhone 5,5C,5S,SE</td>
                   <td class="price">$55</td>
-                  <td>Galaxy S6</td>
-                  <td class="price">$175</td>
+                  <td>Galaxy S6 Active</td>
+                  <td class="price">$220</td>
                 </tr>
                 <tr>
                   <td>iPhone XR</td>
