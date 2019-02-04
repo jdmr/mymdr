@@ -289,19 +289,19 @@
                 <tr>
                   <td>iPhone X</td>
                   <td class="price">$225</td>
-                  <td>Galaxy Note 8</td>
+                  <td>Galaxy Note 9 </td>
+                  <td class="price">$345</td>
+                </tr>
+                <tr>
+                  <td/>
+                  <td class="price"/>
+                  <td>Galaxy Note 8 </td>
                   <td class="price">$340</td>
                 </tr>
                 <tr>
                   <td/>
                   <td class="price"/>
-                  <td>Galaxy Note 5</td>
-                  <td class="price">$240</td>
-                </tr>
-                <tr>
-                  <td/>
-                  <td class="price"/>
-                  <td>Galaxy Note 4</td>
+                  <td>Galaxy Note 5 </td>
                   <td class="price">$225</td>
                 </tr>
               </tbody>
