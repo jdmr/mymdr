@@ -271,20 +271,20 @@
                 <tr>
                   <td>iPhone 6S</td>
                   <td class="price">$75</td>
-                  <td>Galaxy S6 Active</td>
-                  <td class="price">$199</td>
+                  <td>Galaxy S10 PLUS</td>
+                  <td class="price">$355</td>
                 </tr>
                 <tr>
                   <td>iPhone 6 PLUS</td>
                   <td class="price">$70</td>
-                  <td>Galaxy S5 Active</td>
-                  <td class="price">$200</td>
+                  <td>Galaxy S10</td>
+                  <td class="price">$340</td>
                 </tr>
                 <tr>
                   <td>iPhone 6</td>
                   <td class="price">$65</td>
-                  <td>Galaxy S10 PLUS </td>
-                  <td class="price">$355</td>
+                  <td>Galaxy S10E PLUS </td>
+                  <td class="price">$285</td>
                 </tr>
                 <tr>
                   <td>iPhone 5S</td>
