@@ -283,7 +283,7 @@
                 <tr>
                   <td>iPhone 6</td>
                   <td class="price">$65</td>
-                  <td>Galaxy S10E PLUS </td>
+                  <td>Galaxy S10E</td>
                   <td class="price">$285</td>
                 </tr>
                 <tr>
